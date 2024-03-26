@@ -1,0 +1,7 @@
+C:\Users\jdc85\source\repos\Codingtest\p2475\p2475\bin\Debug\p2475.exe.config
+C:\Users\jdc85\source\repos\Codingtest\p2475\p2475\bin\Debug\p2475.exe
+C:\Users\jdc85\source\repos\Codingtest\p2475\p2475\bin\Debug\p2475.pdb
+C:\Users\jdc85\source\repos\Codingtest\p2475\p2475\obj\Debug\p2475.csproj.AssemblyReference.cache
+C:\Users\jdc85\source\repos\Codingtest\p2475\p2475\obj\Debug\p2475.csproj.CoreCompileInputs.cache
+C:\Users\jdc85\source\repos\Codingtest\p2475\p2475\obj\Debug\p2475.exe
+C:\Users\jdc85\source\repos\Codingtest\p2475\p2475\obj\Debug\p2475.pdb
