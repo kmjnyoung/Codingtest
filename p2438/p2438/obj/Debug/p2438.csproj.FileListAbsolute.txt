@@ -1,0 +1,7 @@
+C:\Users\jdc85\source\repos\Codingtest\p2438\p2438\bin\Debug\p2438.exe.config
+C:\Users\jdc85\source\repos\Codingtest\p2438\p2438\bin\Debug\p2438.exe
+C:\Users\jdc85\source\repos\Codingtest\p2438\p2438\bin\Debug\p2438.pdb
+C:\Users\jdc85\source\repos\Codingtest\p2438\p2438\obj\Debug\p2438.csproj.AssemblyReference.cache
+C:\Users\jdc85\source\repos\Codingtest\p2438\p2438\obj\Debug\p2438.csproj.CoreCompileInputs.cache
+C:\Users\jdc85\source\repos\Codingtest\p2438\p2438\obj\Debug\p2438.exe
+C:\Users\jdc85\source\repos\Codingtest\p2438\p2438\obj\Debug\p2438.pdb
