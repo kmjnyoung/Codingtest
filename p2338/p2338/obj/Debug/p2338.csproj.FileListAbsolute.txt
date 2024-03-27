@@ -1,0 +1,7 @@
+C:\Users\jdc85\source\repos\Codingtest\p2338\p2338\bin\Debug\p2338.exe.config
+C:\Users\jdc85\source\repos\Codingtest\p2338\p2338\bin\Debug\p2338.exe
+C:\Users\jdc85\source\repos\Codingtest\p2338\p2338\bin\Debug\p2338.pdb
+C:\Users\jdc85\source\repos\Codingtest\p2338\p2338\obj\Debug\p2338.csproj.AssemblyReference.cache
+C:\Users\jdc85\source\repos\Codingtest\p2338\p2338\obj\Debug\p2338.csproj.CoreCompileInputs.cache
+C:\Users\jdc85\source\repos\Codingtest\p2338\p2338\obj\Debug\p2338.exe
+C:\Users\jdc85\source\repos\Codingtest\p2338\p2338\obj\Debug\p2338.pdb
