@@ -1,0 +1,7 @@
+C:\Users\jdc85\source\repos\Codingtest\p2558\p2558\bin\Debug\p2558.exe.config
+C:\Users\jdc85\source\repos\Codingtest\p2558\p2558\bin\Debug\p2558.exe
+C:\Users\jdc85\source\repos\Codingtest\p2558\p2558\bin\Debug\p2558.pdb
+C:\Users\jdc85\source\repos\Codingtest\p2558\p2558\obj\Debug\p2558.csproj.AssemblyReference.cache
+C:\Users\jdc85\source\repos\Codingtest\p2558\p2558\obj\Debug\p2558.csproj.CoreCompileInputs.cache
+C:\Users\jdc85\source\repos\Codingtest\p2558\p2558\obj\Debug\p2558.exe
+C:\Users\jdc85\source\repos\Codingtest\p2558\p2558\obj\Debug\p2558.pdb
