@@ -1,0 +1,10 @@
+C:\Users\jdc85\source\repos\LogIn\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\jdc85\source\repos\LogIn\LogIn\bin\Debug\LogIn.exe
+C:\Users\jdc85\source\repos\LogIn\LogIn\bin\Debug\LogIn.pdb
+C:\Users\jdc85\source\repos\LogIn\LogIn\obj\Debug\LogIn.csproj.AssemblyReference.cache
+C:\Users\jdc85\source\repos\LogIn\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\jdc85\source\repos\LogIn\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\jdc85\source\repos\LogIn\LogIn\obj\Debug\LogIn.csproj.GenerateResource.cache
+C:\Users\jdc85\source\repos\LogIn\LogIn\obj\Debug\LogIn.csproj.CoreCompileInputs.cache
+C:\Users\jdc85\source\repos\LogIn\LogIn\obj\Debug\LogIn.exe
+C:\Users\jdc85\source\repos\LogIn\LogIn\obj\Debug\LogIn.pdb
