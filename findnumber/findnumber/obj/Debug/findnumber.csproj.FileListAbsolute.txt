@@ -1,0 +1,10 @@
+C:\Users\jdc85\source\repos\findnumber\findnumber\bin\Debug\findnumber.exe.config
+C:\Users\jdc85\source\repos\findnumber\findnumber\bin\Debug\findnumber.exe
+C:\Users\jdc85\source\repos\findnumber\findnumber\bin\Debug\findnumber.pdb
+C:\Users\jdc85\source\repos\findnumber\findnumber\obj\Debug\findnumber.csproj.AssemblyReference.cache
+C:\Users\jdc85\source\repos\findnumber\findnumber\obj\Debug\findnumber.Form1.resources
+C:\Users\jdc85\source\repos\findnumber\findnumber\obj\Debug\findnumber.Properties.Resources.resources
+C:\Users\jdc85\source\repos\findnumber\findnumber\obj\Debug\findnumber.csproj.GenerateResource.cache
+C:\Users\jdc85\source\repos\findnumber\findnumber\obj\Debug\findnumber.csproj.CoreCompileInputs.cache
+C:\Users\jdc85\source\repos\findnumber\findnumber\obj\Debug\findnumber.exe
+C:\Users\jdc85\source\repos\findnumber\findnumber\obj\Debug\findnumber.pdb
