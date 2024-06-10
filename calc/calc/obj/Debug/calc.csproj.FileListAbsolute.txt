@@ -1,0 +1,10 @@
+C:\Users\jdc85\source\repos\calc\calc\bin\Debug\calc.exe.config
+C:\Users\jdc85\source\repos\calc\calc\bin\Debug\calc.exe
+C:\Users\jdc85\source\repos\calc\calc\bin\Debug\calc.pdb
+C:\Users\jdc85\source\repos\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\jdc85\source\repos\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\jdc85\source\repos\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\jdc85\source\repos\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\jdc85\source\repos\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\jdc85\source\repos\calc\calc\obj\Debug\calc.exe
+C:\Users\jdc85\source\repos\calc\calc\obj\Debug\calc.pdb
